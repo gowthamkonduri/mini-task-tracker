@@ -13,7 +13,7 @@ This project is a **"Mini Task Tracker"**, a simple React application designed t
 
 Ensure the following are successfully installed on your machine:
 
-- **Node.js** (v18 or later)
+- **Node.js** (v21 or later)
 - **npm**
 
 ---
