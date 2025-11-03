@@ -4,6 +4,9 @@
 
 This project is a **"Mini Task Tracker"**, a simple React application designed to help you organise your day. It allows you to quickly add and manage personal tasks, each with a title and category. You can mark tasks as complete, filter your list by category, and your tasks will be automatically saved to your browser’s local storage so you won’t lose them on your next visit.
 
+## Preview
+
+![Mini Task Tracker Screenshot](./src/assets/preview.png)
 ---
 
 ## Prerequisites
