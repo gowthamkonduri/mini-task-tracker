@@ -39,7 +39,8 @@ To start the application in development mode, run:
 ```bash
 npm run dev
 ```
-Vite will print the exact URL (usually `http://localhost:5173`) to the console. Open this URL in your browser to view the application.
+
+Once the development server starts, Vite will display the local URL (typically http://localhost:5173) in the console. Open this link in your browser to access the application.
 
 ---
 
