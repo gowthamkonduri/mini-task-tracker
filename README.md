@@ -1,23 +1,52 @@
 # Mini Task Tracker
 
-*“Organize your day”*
+*“Organise your day”*
 
-Prerequisites
-   * Node.js (v18 or later)
-   * npm
+This project is a **"Mini Task Tracker"**, a simple React application designed to help you organise your day. It allows you to quickly add and manage personal tasks, each with a title and category. You can mark tasks as complete, filter your list by category, and your tasks will be automatically saved to your browser’s local storage so you won’t lose them on your next visit.
 
-Installation
-   1. Clone the repo
-        git clone https://github.com/gowthamkonduri/mini-task-tracker.git
-   2. Install NPM packages
-        npm install
+---
 
-Running the Application
-    To run the application in development mode, use the following command:
-        npm run dev
+## Prerequisites
 
-    This will start the development server, and you can view the localhost URL on the console. Fllow this URL in your briwser to view the application.
+Ensure the following are successfully installed on your machine:
 
-Running Tests
-    To run the unit tests for the application, use the following command:
-        npm test
+- **Node.js** (v18 or later)
+- **npm**
+
+---
+
+## Project Setup
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/gowthamkonduri/mini-task-tracker.git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd mini-task-tracker
+    ```
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+---
+
+## Running the Application
+
+To start the application in development mode, run:
+
+```bash
+npm run dev
+```
+Vite will print the exact URL (usually `http://localhost:5173`) to the console. Open this URL in your browser to view the application.
+
+---
+
+## Running Tests
+
+To run the unit tests for the application, use the following command:
+
+```bash
+npm test
+```
