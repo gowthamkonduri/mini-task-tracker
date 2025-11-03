@@ -54,3 +54,5 @@ To run the unit tests for the application, use the following command:
 ```bash
 npm test
 ```
+
+ The test suite uses Vitest and the React Testing Library to verify the core functionalities of the application. The tests cover adding, completing, deleting and filtering tasks.
